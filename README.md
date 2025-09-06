@@ -4,7 +4,8 @@ A Python project that analyzes trends in Sales Data for an e-commerce platform a
 
 ### Dataset Description:
 The dataset contains 1155 records, describing Transaction information (ID, Units Sold, Unit Price, etc).
-The analysis followed these steps:
+
+**The analysis followed these steps:**
 
 1. Explore the data
 
