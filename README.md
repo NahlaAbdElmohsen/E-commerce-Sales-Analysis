@@ -17,6 +17,9 @@ The dataset contains 1155 records, describing Transaction information (ID, Units
    
 5. Report: Write a report describing all issues and how we can handle them, along with business insights and recommendations for this project 
 
-### Analysis goals
+### Analysis goals:
 Analyze patterns discovered and make recommendations.
+
+### Technologies Used:
+Python
 
